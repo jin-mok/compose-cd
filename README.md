@@ -7,7 +7,7 @@
 ![downloads](https://img.shields.io/github/downloads/sksat/compose-cd/total)
 ![code size](https://img.shields.io/github/languages/code-size/sksat/compose-cd)
 
-Continuous Deployment for docker-compose
+Continuous Deployment for docker-compose 
 
 ## Install
 ```sh
